@@ -1,0 +1,1 @@
+applicable to P40 Staggered
