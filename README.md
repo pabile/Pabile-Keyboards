@@ -10,7 +10,8 @@ Available [here](https://www.facebook.com/commerce/products/5614446295268540/)
 
 To do: Assemble guide
 
-##20-Key Macro Pad - P20
+## 20-Key Macro Pad - P20
+On 20221026, P20v7 was released. The most recent version supports up to 19 hotswap sockets and up to 4 rotary encoders. Gaining hotswap-ability looses modularity - option for 2u keys were dropped.
 
 <picture>
   <img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p20v7-pcb-004.jpg" width=800">
