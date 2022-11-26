@@ -11,4 +11,4 @@ Available [here](https://www.facebook.com/commerce/products/5614446295268540/)
 To do: Assemble guide
 
 ##20-Key Macro Pad - P20
-<img src="https://photos.app.goo.gl/qXmTPdsXJt9fyaNT7" wwidth="600" />
+
