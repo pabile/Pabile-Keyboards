@@ -12,4 +12,4 @@ To do: Assemble guide
 
 ##20-Key Macro Pad - P20
 
-![p20v7](https://github.com/pabile/Pabile-Keyboards/blob/main/img/p20v7-pcb-004.jpg width="600")
+![p20v7]<img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p20v7-pcb-004.jpg width="600" />
