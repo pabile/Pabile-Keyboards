@@ -1,0 +1,9 @@
+# Copyright (c) 2021 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_P1
+
+config ZMK_KEYBOARD_NAME
+	default "Pabile 1-Key"
+
+endif
