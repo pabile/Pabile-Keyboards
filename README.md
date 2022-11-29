@@ -2,7 +2,7 @@ Files shared here are my backups and are mostly work in progress. Please take ti
 
 QMK configuration files were compiled using [vial_qmk](https://github.com/vial-kb/vial-qmk) fork for [Vial](https://get.vial.today/) compatibility.
 
-ZMK configuration files were designed with [joric's nrfmicro](https://github.com/joric/nrfmicro). 
+ZMK configuration files were written for [nrfmicro](https://github.com/joric/nrfmicro). 
 
 ## Photos
 [Mini photo gallery](http://sites.google.com/site/pabile)
