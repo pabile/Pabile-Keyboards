@@ -7,6 +7,9 @@ ZMK configuration files were designed with [joric's nrfmicro_13](https://github.
 ## Wiki
 [https://github.com/pabile/Pabile-Keyboards/wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
 
+## Photos
+[Mini photo gallery](http://sites.google.com/site/pabile)
+
 ## FAQ
 [Keyboard & macropad related FAQ](https://sites.google.com/site/pabile/faq) 
 
