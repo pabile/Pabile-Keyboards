@@ -1,16 +1,15 @@
 Files shared here are my backups and are mostly work in progress. Please take time to review before use. 
 
-QMK configuration files were design using [vial_qmk fork](https://github.com/vial-kb/vial-qmk). Vial compatibility will be lost if compiled elsewhere.
+QMK configuration files were compiled using [vial_qmk](https://github.com/vial-kb/vial-qmk) fork for [Vial](https://get.vial.today/) compatibility.
 
-ZMK configuration files were designed with [joric's nrfmicro_13](https://github.com/joric/nrfmicro). 
-
-## Wiki
-[https://github.com/pabile/Pabile-Keyboards/wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
+ZMK configuration files were designed with [joric's nrfmicro](https://github.com/joric/nrfmicro). 
 
 ## Photos
 [Mini photo gallery](http://sites.google.com/site/pabile)
 
-## FAQ
+## Resources
+[Wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
+
 [Keyboard & macropad related FAQ](https://sites.google.com/site/pabile/faq) 
 
 Please see [wiki](https://github.com/pabile/Pabile-Keyboards/wiki) for assembly/build guides.
