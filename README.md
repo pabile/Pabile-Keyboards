@@ -14,6 +14,14 @@ ZMK configuration files were written for [nrfmicro](https://github.com/joric/nrf
 
 Please see [wiki](https://github.com/pabile/Pabile-Keyboards/wiki) for assembly/build guides.
 
+## Latest release
+
+<picture>
+<img src="https://user-images.githubusercontent.com/1162412/204763191-ff9a4f1d-43f4-40fa-a501-185fee870a16.png" width="800">
+</picture>
+
+P45, 45-key staggered fixed layout with rotary encoder. Features hot swap switch sockets and per-ley RGB backlight. Available in [barebones](https://www.facebook.com/commerce/products/6047686601921729/) kits and [PCB only](https://www.facebook.com/commerce/products/5640729572642529/) kits.
+
 ## Online stores
 [fb.com/pabilekeyboards/shop](https://fb.com/pabilekeyboards/shop) 
 
