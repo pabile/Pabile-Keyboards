@@ -4,9 +4,6 @@ QMK configuration files were compiled using [vial_qmk](https://github.com/vial-k
 
 ZMK configuration files were written for [nrfmicro](https://github.com/joric/nrfmicro). 
 
-## Photos
-[Google Photos](https://photos.app.goo.gl/xKJEP1JkhWzEbJLE7)
-
 ## Resources
 [Wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
 
