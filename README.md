@@ -14,4 +14,4 @@ Please see [wiki](https://github.com/pabile/Pabile-Keyboards/wiki) for assembly/
 
 [lazada.com.ph](https://lazada.com.ph/pabile) 
 
-[shopee.ph](https://shopee.ph/pabilemariano) 
+[shopee.ph](https://shopee.ph/pabilekeyboards) 
