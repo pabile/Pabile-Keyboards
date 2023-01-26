@@ -5,9 +5,7 @@ QMK configuration files were compiled using [vial-qmk](https://github.com/vial-k
 ## Resources
 [Wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
 
-[Keyboard & macropad related FAQ](https://sites.google.com/site/pabile/faq) 
-
-Please see [wiki](https://github.com/pabile/Pabile-Keyboards/wiki) for assembly/build guides.
+[FAQ](https://sites.google.com/site/pabile/faq) 
 
 ## Online stores
 [fb.com/pabilekeyboards/shop](https://fb.com/pabilekeyboards/shop) 
