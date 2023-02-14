@@ -37,9 +37,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_PAD_A { GP13, GP11 }
 #define ENCODERS_PAD_B { GP12, GP7 }
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 8
-#define DYNAMIC_KEYMAP_MACRO_COUNT 32
-
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET 
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 200
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP23
@@ -47,8 +44,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #ifdef RGB_MATRIX_ENABLE
 
 #    define RGB_DI_PIN GP28
-#    define RGBLED_NUM 43
-#    define RGB_MATRIX_LED_COUNT 43
+#    define RGBLED_NUM 38
+#    define RGB_MATRIX_LED_COUNT 38
 #    define WS2812_PIO_USE_PIO1
 
 /* Enable Framebuffer and keypress effects */
