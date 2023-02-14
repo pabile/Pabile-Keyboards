@@ -1,1 +1,1 @@
-#P38 Macro Pad
+#P38 Keypad
