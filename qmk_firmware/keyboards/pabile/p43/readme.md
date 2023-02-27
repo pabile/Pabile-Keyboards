@@ -1,1 +1,1 @@
-#P2 Macro Pad
+#P43 RP2040 Pico Powered Keyboard
