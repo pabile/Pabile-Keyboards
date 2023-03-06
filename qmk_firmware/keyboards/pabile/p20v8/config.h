@@ -27,8 +27,6 @@
 #define RGB_DI_PIN GP14
 #define DRIVER_LED_TOTAL 20
 
-#define RGBLIGHT_LED_MAP { 0,2,3,7,6,5,4,8,9,10,11,15,14,13,12,16,17,18,19 }
-
 #ifdef RGB_MATRIX_ENABLE
 
 /* Enable Framebuffer and keypress effects */
