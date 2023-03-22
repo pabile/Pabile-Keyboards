@@ -1,0 +1,17 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0xCE, 0x0A, 0x48, 0x5D, 0x1F, 0x29, 0xA6, 0xF9}
+
+// #define VIAL_ENCODER_DEFAULT { KC_VOLD, KC_VOLU }
+// #define VIAL_TAP_DANCE_ENTRIES 2
+// #define VIAL_COMBO_ENTRIES 2
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define USB_SUSPEND_WAKEUP_DELAY 200
+
+#undef FORCE_NKRO
+#define FORCE_NKRO
+
+#define DYNAMIC_KEYMAP_MACRO_COUNT 8
