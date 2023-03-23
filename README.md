@@ -1,19 +1,11 @@
-<picture>
-<img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p2-blade-08.jpg" width="600">
-</picture>
-
-_[In photo: [P2 Blade Macro Pad](https://github.com/pabile/Pabile-Keyboards/wiki/P2-Macropad)]_
-
-Pabile Keyboards are keyboards and macropads powered by low-cost microcontrollers and designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Please take time to review before use. 
-
-QMK configuration files were compiled using [vial-qmk](https://github.com/vial-kb/vial-qmk) fork for [Vial](https://get.vial.today/) compatibility. ZMK configuration files were written for [nrfmicro](https://github.com/joric/nrfmicro). 
+# Pabile Keyboards, Keypads and Macropads #
 
 | Item  | Release Date | Controller   |    |
 |---|---|---|---|
 | P48   | tba          | RP2040 Pico |  |
 | [P45](https://github.com/pabile/Pabile-Keyboards/wiki/P45-Keyboard)   | 24SEP2022    | Pro Micro   |  <picture><img src="https://user-images.githubusercontent.com/1162412/204763191-ff9a4f1d-43f4-40fa-a501-185fee870a16.png" width=250></picture> |
 | [P43](https://github.com/pabile/Pabile-Keyboards/wiki/P43-Keyboard)   | 11FEB2023    | RP2040 Pico |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p43-000-sm.jpg" width=250></picture> |
-| [P42](https://github.com/pabile/Pabile-Keyboards/wiki/P42-Keyboard)   | 03JUL2020    | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p42-stackedacrylic.jpg" width=250></picture> |
+| [P42](https://github.com/pabile/Pabile-Keyboards/wiki/P42-Keyboard)   | 03JUL2020    | Pro Micro / Feather 32U4   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p42-stackedacrylic.jpg" width=250></picture> |
 | P42 (staggered)   | Unreleased   | ATMEGA32U4  |    |
 | [P40 (ortholinear)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards) | 22JUN2020 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-ortho-005.jpg" width=250></picture> |
 | [P40 (staggered)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards)   | 01NOV2019 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-stag-05.jpg" width=250></picture> |
@@ -27,12 +19,14 @@ QMK configuration files were compiled using [vial-qmk](https://github.com/vial-k
 | [P6](https://github.com/pabile/Pabile-Keyboards/wiki/P12-Macropad)    | 16JAN2023    | Pro Micro   | |
 | [P2](https://github.com/pabile/Pabile-Keyboards/wiki/P2-Macropad)    | 21NOV2021    | Pro Micro   | <picture><img src="https://github.com/pabile/pee-two/raw/2e16d40bc188a089ef017f76e408057dc2d90b49/img/_DSC8363-sm.jpg" width=250></picture> |
 
+Pabile Keyboards are keyboards and macropads powered by low-cost microcontrollers and designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Please take time to review before use. 
+
 ## Resources
 [Wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
 
 [FAQ](https://sites.google.com/site/pabile/faq) 
 
-## Online stores
+### Online stores
 [fb.com/pabilekeyboards/shop](https://fb.com/pabilekeyboards/shop) 
 
 [lazada.com.ph](https://lazada.com.ph/pabile) 
