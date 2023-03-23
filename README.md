@@ -2,14 +2,14 @@
 
 | Item  | Release Date | Controller   |    |
 |---|---|---|---|
-| P48   | tba          | RP2040 Pico |  |
+| P48   | (wip)          | RP2040 Pico |  |
 | [P45](https://github.com/pabile/Pabile-Keyboards/wiki/P45-Keyboard)   | 24SEP2022    | Pro Micro   |  <picture><img src="https://user-images.githubusercontent.com/1162412/204763191-ff9a4f1d-43f4-40fa-a501-185fee870a16.png" width=250></picture> |
 | [P43](https://github.com/pabile/Pabile-Keyboards/wiki/P43-Keyboard)   | 11FEB2023    | RP2040 Pico |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p43-000-sm.jpg" width=250></picture> |
 | [P42](https://github.com/pabile/Pabile-Keyboards/wiki/P42-Keyboard)   | 03JUL2020    | Pro Micro / Feather 32U4   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p42-stackedacrylic.jpg" width=250></picture> |
 | P42 (staggered)   | Unreleased   | ATMEGA32U4  |    |
 | [P40 (ortholinear)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards) | 22JUN2020 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-ortho-005.jpg" width=250></picture> |
 | [P40 (staggered)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards)   | 01NOV2019 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-stag-05.jpg" width=250></picture> |
-| P38 (sns)         | tba       | RP2040 Zero |  |
+| P38 (sns)         | (wip)       | RP2040 Zero |  |
 | [P37](https://github.com/pabile/Pabile-Keyboards/wiki/P37-Keyboard)   | 12MAR2023    | RP2040 Zero |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p37-004-s.jpg" width=250></picture> |
 | [P30](https://github.com/pabile/Pabile-Keyboards/wiki/P30-Keypad)   | 12JAN2023    | (v1) Pro Micro; (v2) RP2040 Zero  |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p30-012-s.jpg" width=250></picture> |
 | [P20](https://github.com/pabile/Pabile-Keyboards/wiki/P20-Macropad)   | 17DEC2019    | (v1-v7) Pro Micro; (v8) RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p20-acrylic-weather.jpg" width=250></picture> |
