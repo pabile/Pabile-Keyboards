@@ -37,9 +37,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_PAD_A { GP27, GP26, GP3, GP5 }
 #define ENCODERS_PAD_B { GP28, GP22, GP4, GP9 }
 
-
 #define RGB_DI_PIN GP14
 #define DRIVER_LED_TOTAL 17
+#define RGBLED_NUM 17
 
 #ifdef RGB_MATRIX_ENABLE
 
