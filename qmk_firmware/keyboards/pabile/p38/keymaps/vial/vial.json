@@ -2,7 +2,7 @@
     "name": "P38 Keyboard",
     "vendorId": "0x8065",
     "productId": "0x8038",
-    "lighting": "qmk_rgblight", 
+    "lighting": "vialrgb", 
     "matrix": {
         "rows": 7,
         "cols": 6
