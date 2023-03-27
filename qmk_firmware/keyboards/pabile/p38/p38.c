@@ -1,18 +1,27 @@
-/*
-Copyright 2020 Pabile
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
-
 #include "p38.h"
+
+#ifdef RGB_MATRIX_ENABLE
+
+/* RGB Positioning */
+led_config_t g_led_config = { {
+    {4, 3, 2, 1, 0, 9},
+    {5, 6, 7, 8, 11, 10},
+    {14, 13, 12, 15, 16, 17},
+    {35, 34, 33, 32, 31, 30},
+    {26, 27, 28, 29, 22, 21},
+    {25, 24, 23, 18, 19, 20}
+}, {
+  {100,0}, {75,0}, {50,0}, {25,0}, {0,0}, {0,21},
+  {25,21}, {50,21}, {75,21}, {100,21}, {0,42}, {25,42},
+  {50,42}, {75,42}, {100,42}, {0,64}, {25,64}, {97,64},
+  {128,64}, {200,64}, {224,64}, {224,42}, {200,42}, {175,42},
+  {150,42}, {125,42}, {125,21}, {150,21}, {175,21}, {200,21},
+  {224,21}, {224,0}, {200,0}, {175,0}, {150,0}, {125,0}
+}, {
+    4, 4, 4, 4, 4,     4, 4, 4, 4, 4,
+    4, 4, 4, 4, 4,     4, 4, 4, 4, 4,
+    4, 4, 4, 4, 4,     4, 4, 4, 4, 4,
+          1, 1, 4,     4, 1, 1
+} };
+
+#endif
