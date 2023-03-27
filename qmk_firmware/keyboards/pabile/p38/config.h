@@ -42,9 +42,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP16
 
 #define RGB_DI_PIN GP28
-#define RGBLED_NUM 36
-#define RGB_MATRIX_LED_COUNT 36
-#define WS2812_PIO_USE_PIO1
+#define DRIVER_LED_TOTAL 20
 
 #ifdef RGB_MATRIX_ENABLE
 
