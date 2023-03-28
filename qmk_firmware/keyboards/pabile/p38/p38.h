@@ -32,6 +32,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	{k30,k31,k32,k33,k34,k35}, \
 	{k40,k41,k42,k43,k44,k45}, \
 	{k50,k51,k52,k53,k54,k55}, \
-	{k60,k61,                } \
+	{k60,k61                } \
 }
 
