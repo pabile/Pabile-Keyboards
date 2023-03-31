@@ -2,7 +2,7 @@
 
 | Item  | Release Date | Controller   |    |
 |---|---|---|---|
-| P48   | (wip)          | RP2040 Pico |  |
+| P48   | 01APR2023 | RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p48-006sm.jpg" width="250"></picture> |
 | [P45](https://github.com/pabile/Pabile-Keyboards/wiki/P45-Keyboard)   | 24SEP2022    | Pro Micro   |  <picture><img src="https://user-images.githubusercontent.com/1162412/204763191-ff9a4f1d-43f4-40fa-a501-185fee870a16.png" width=250></picture> |
 | [P43](https://github.com/pabile/Pabile-Keyboards/wiki/P43-Keyboard)   | 11FEB2023    | RP2040 Pico |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p43-000-sm.jpg" width=250></picture> |
 | [P42](https://github.com/pabile/Pabile-Keyboards/wiki/P42-Keyboard)   | 03JUL2020    | Pro Micro / Feather 32U4   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p42-stackedacrylic.jpg" width=250></picture> |
