@@ -9,7 +9,7 @@
 | P42 (staggered)   | Unreleased   | ATMEGA32U4  |    |
 | [P40 (ortholinear)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards) | 22JUN2020 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-ortho-005.jpg" width=250></picture> |
 | [P40 (staggered)](https://github.com/pabile/Pabile-Keyboards/wiki/P40-Keyboards)   | 01NOV2019 | Pro Micro   |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p40-stag-05.jpg" width=250></picture> |
-| P38 (sns)         | (wip)       | RP2040 Zero |  |
+| P38 Split-Non-Split | 05APR2023       | RP2040 Zero | <picture><img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p38-peker-015.jpg" width=250></picture> |
 | [P37](https://github.com/pabile/Pabile-Keyboards/wiki/P37-Keyboard)   | 12MAR2023    | RP2040 Zero |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p37-004-s.jpg" width=250></picture> |
 | [P30](https://github.com/pabile/Pabile-Keyboards/wiki/P30-Keypad)   | 12JAN2023    | (v1) Pro Micro; (v2) RP2040 Zero  |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p30-012-s.jpg" width=250></picture> |
 | [P20](https://github.com/pabile/Pabile-Keyboards/wiki/P20-Macropad)   | 17DEC2019    | (v1-v7) Pro Micro; (v8) RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p20-acrylic-weather.jpg" width=250></picture> |
