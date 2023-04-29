@@ -19,7 +19,7 @@
 | [P6](https://github.com/pabile/Pabile-Keyboards/wiki/P12-Macropad)    | 16JAN2023    | Pro Micro   | |
 | [P2 *](https://github.com/pabile/Pabile-Keyboards/wiki/P2-Macropad)    | 21NOV2021    | Pro Micro   | <picture><img src="https://github.com/pabile/pee-two/raw/2e16d40bc188a089ef017f76e408057dc2d90b49/img/_DSC8363-sm.jpg" width=250></picture> |
 
-Pabile Keyboards are keyboards and macropads powered by low-cost microcontrollers and designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Please take time to review before use. 
+Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Please take time to review before use. 
 
 ## Resources
 [Wiki](https://github.com/pabile/Pabile-Keyboards/wiki)
