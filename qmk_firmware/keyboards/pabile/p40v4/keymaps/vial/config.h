@@ -1,0 +1,7 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x89, 0xF8, 0xCB, 0xB0, 0x77, 0x14, 0xF3, 0xF9}
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+#define DYNAMIC_KEYMAP_MACRO_COUNT 32
+// #define MIDI_ADVANCED
