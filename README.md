@@ -1,4 +1,4 @@
-Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Use at one's own risk. 
+Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](https://qmk.fm/). Files shared here are backups and may be a work in progress. Please take time to review before use. 
 
 # Pabile Keyboards, Keypads and Macropads #
 
@@ -34,3 +34,5 @@ Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](h
 [lazada.com.ph](https://lazada.com.ph/pabile) 
 
 [shopee.ph](https://shopee.ph/pabilekeyboards) 
+
+[etsy uk](https://www.etsy.com/uk/shop/PabileKeyboards)
