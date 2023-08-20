@@ -1,0 +1,37 @@
+{
+    "keyboard_name": "P12v2 Macropad",
+    "manufacturer": "Pabile",
+    "url": "https://github.com/pabile/Pabile-Keyboards",
+    "maintainer": "Pabile",
+    "usb": {
+        "vid": "0x8065",
+        "pid": "0x8012",
+        "device_version": "0.2.0"
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP27", "GP22", "GP4"],
+            ["GP20", "GP21", "GP10"],
+            ["GP19", "GP18", "GP12"],
+            ["GP16", "GP17", "GP13"]
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0, "matrix": [0, 0]},
+		{"x": 1, "y": 0, "matrix": [0, 1]},
+		{"x": 2, "y": 0, "matrix": [0, 2]},
+                {"x": 0, "y": 1, "matrix": [1, 0]},
+                {"x": 1, "y": 1, "matrix": [1, 1]},
+                {"x": 2, "y": 1, "matrix": [1, 2]},
+                {"x": 0, "y": 2, "matrix": [2, 0]},
+                {"x": 1, "y": 2, "matrix": [2, 1]},
+                {"x": 2, "y": 2, "matrix": [2, 2]},
+                {"x": 0, "y": 3, "matrix": [3, 0]},
+                {"x": 1, "y": 3, "matrix": [3, 1]},
+                {"x": 2, "y": 3, "matrix": [3, 2]}
+            ]
+        }
+    }
+}
