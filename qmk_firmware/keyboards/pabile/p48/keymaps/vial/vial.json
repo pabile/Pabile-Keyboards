@@ -95,5 +95,23 @@
     },
     "vial": {
         "midi": "advanced"
-    }
+    },
+    "customKeycodes": [
+        {"name": "00",
+         "title": "Double Zero",
+         "shortName": "DBLZERO"
+        },
+        {"name": "xCopy",
+         "title": "Alternate Copy",
+         "shortName": "XCOPY"
+        },
+        {"name": "xPaste",
+         "title": "Aternate Paste",
+         "shortName": "XPASTE"
+        },
+        {"name": "xCut",
+         "title": "Alternate Cut",
+         "shortName": "XCUT"
+        }
+    ]
 }
