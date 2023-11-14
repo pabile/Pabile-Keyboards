@@ -4,6 +4,6 @@
 if SHIELD_P42LITE
 
 config ZMK_KEYBOARD_NAME
-	default "Pabile 42 Lite"
+	default "Pabile42"
 
 endif
