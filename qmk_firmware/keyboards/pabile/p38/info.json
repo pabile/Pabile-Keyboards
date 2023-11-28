@@ -1,11 +1,11 @@
 {
-    "keyboard_name": "P38 Keyboard", 
-    "url": "https://pabileonline.blogspot.com/", 
-    "maintainer": "Pabile", 
+    "keyboard_name": "P38 Keyboard",
+    "url": "https://pabileonline.blogspot.com/",
+    "maintainer": "Pabile",
     "manufacturer": "Pabile",
     "usb": {
-        "vid": "0x8065",
-        "pid": "0x8038",
+        "vid": "0x3297",
+        "pid": "0xC6CE",
         "device_version": "0.0.0"
     },
     "layouts": {

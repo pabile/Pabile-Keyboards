@@ -29,3 +29,19 @@ const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
     [0] =   { ENCODER_CCW_CW(KC_VOLD, KC_VOLU), ENCODER_CCW_CW(KC_VOLD, KC_VOLU) }
 };
 #endif
+
+// layer indicator
+void rgb_matrix_indicators_user(void) {
+    uint8_t layer = biton32(layer_state);
+    switch (layer) {
+        case 15:
+            rgb_matrix_set_color_all(255, 0, 138);
+            break;
+        case 14:
+            rgb_matrix_set_color_all(255, 0, 0);
+            break;
+        case 13:
+            rgb_matrix_set_color_all(255, 170, 0);
+            break;
+    }
+}

@@ -1,48 +1,34 @@
-/*
-Copyright 2023 Pabile
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
-
 #pragma once
 
 #include "config_common.h"
 
 /* key matrix size */
-#define MATRIX_ROWS 7
-#define MATRIX_COLS 6
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 4 
 
 /* pin-out */
-#define MATRIX_ROW_PINS { GP29, GP15, GP26, GP10, GP8, GP4, GP9 }
-#define MATRIX_COL_PINS { GP2,  GP1,  GP27, GP14, GP5, GP6 }
-
+#define MATRIX_ROW_PINS { GP21, GP20, GP19, GP18, GP16 }
+#define MATRIX_COL_PINS { GP17, GP10, GP11, GP15 }
+ 
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
 
 #define USB_SUSPEND_WAKEUP_DELAY 200
 
-/* Encoders */
-#define ENCODERS 2
-#define ENCODERS_PAD_B { GP12, GP7 }
-#define ENCODERS_PAD_A { GP13, GP11 }
-
-#define ENCODER_RESOLUTIONS { 2, 2 }
-
-#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET 
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 200
-#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP16
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP23
 
-#define RGB_DI_PIN GP28
-#define RGBLED_NUM 36
-#define DRIVER_LED_TOTAL 36
+/* Encoders */
+#define ENCODERS 4
+#define ENCODERS_PAD_B { GP27, GP26, GP3, GP5 }
+#define ENCODERS_PAD_A { GP28, GP22, GP4, GP9 }
+
+#define RGB_DI_PIN GP14
+#define DRIVER_LED_TOTAL 20 
+#define RGBLED_NUM 20
+
+#define RGBLIGHT_LED_MAP { 0,2,3,7,6,5,4,8,9,10,11,15,14,13,12,16,17,18,19 }
 
 #ifdef RGB_MATRIX_ENABLE
 

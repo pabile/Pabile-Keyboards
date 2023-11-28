@@ -2,7 +2,7 @@
     "name": "P38 Keyboard",
     "vendorId": "0x0566",
     "productId": "0xC6CE",
-    "lighting": "vialrgb", 
+    "lighting": "qmk_rgblight", 
     "matrix": {
         "rows": 7,
         "cols": 6
@@ -347,3 +347,4 @@
         "midi": "advanced"
     }
 }
+

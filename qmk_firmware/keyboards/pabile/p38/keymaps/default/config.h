@@ -9,3 +9,5 @@
 
 #define MIDI_ADVANCED
 
+// for mobile
+// #define USB_MAX_POWER_CONSUMPTION 80
