@@ -1,1 +1,1 @@
-These were written for [nrfmicro](https://github.com/joric/nrfmicro/). Check configurations and compatibility before using with other controllers.
+Unless specified in the filename, firmware in this folder is for [nrfmicro](https://github.com/joric/nrfmicro/) microcontrollers. Check configurations and compatibility before using with other controllers.
