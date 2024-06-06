@@ -4,7 +4,7 @@ Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](h
 
 | Item  | Release Date | Controller   |    |
 |---|---|---|---|
-| P60   | 27APR2023 | RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p60-004-250.jpg" width="250"></picture> |
+| [P60](https://github.com/pabile/Pabile-Keyboards/wiki/P60-Keyboard)   | 27APR2023 | RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p60-004-250.jpg" width="250"></picture> |
 | P48   | 01APR2023 | RP2040 Pico | <picture><img src="https://github.com/pabile/Pabile-Keyboards/blob/main/img/p48-006sm.jpg" width="250"></picture> |
 | [P45](https://github.com/pabile/Pabile-Keyboards/wiki/P45-Keyboard)   | 24SEP2022    | (v1) Pro Micro; (v2) RP2040 Zero   |  <picture><img src="https://user-images.githubusercontent.com/1162412/204763191-ff9a4f1d-43f4-40fa-a501-185fee870a16.png" width=250></picture> |
 | [P43](https://github.com/pabile/Pabile-Keyboards/wiki/P43-Keyboard)   | 11FEB2023    | RP2040 Pico |  <picture><img src="https://github.com/pabile/Pabile-Keyboards/raw/main/img/p43-000-sm.jpg" width=250></picture> |
@@ -31,8 +31,6 @@ Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](h
 ### Online stores
 [fb.com/pabilekeyboards/shop](https://fb.com/pabilekeyboards/shop) 
 
-[lazada.com.ph](https://lazada.com.ph/pabile) 
-
-[shopee.ph](https://shopee.ph/pabilekeyboards) 
-
 [etsy uk](https://pabilekeyboards.etsy.com/)
+
+[etsy ph](https://pabilekeyboardsph.etsy.com/)
