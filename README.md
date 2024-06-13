@@ -29,8 +29,10 @@ Pabile Keyboards are small keyboards and macropads designed for [QMK Firmware](h
 [FAQ](https://sites.google.com/site/pabile/faq) 
 
 ### Online stores
-[fb.com/pabilekeyboards/shop](https://fb.com/pabilekeyboards/shop) 
+[fb.com/pabilekeyboards](https://fb.com/pabilekeyboards) 
 
 [etsy uk](https://pabilekeyboards.etsy.com/)
 
 [etsy ph](https://pabilekeyboardsph.etsy.com/)
+
+[lazada](http://lazada.com.ph/pabile)
