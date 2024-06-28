@@ -24,8 +24,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 7
 
 /* pin-out for PROMICRO */
-#define MATRIX_ROW_PINS { GP9, GP10, GP11, GP12, GP6, GP14 }
-#define MATRIX_COL_PINS { GP1, GP2, GP4, GP5, GP13, GP7, GP8 }
+/* pin-out for PROMICRO */
+#define MATRIX_ROW_PINS { GP2, GP3, GP4, GP5, GP6, GP7 }
+#define MATRIX_COL_PINS { GP8, GP26, GP22, GP21, GP23, GP20, GP27 }
 
 #define UNUSED_PINS
 
@@ -34,13 +35,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Encoders */
 #define ENCODERS 2
-#define ENCODERS_PAD_A { GP22, GP17 }
-#define ENCODERS_PAD_B { GP21, GP16 }
+#define ENCODERS_PAD_A { GP0, GP29 }
+#define ENCODERS_PAD_B { GP1, GP28 }
 #define ENCODER_RESOLUTION 2
 
-#define RGB_DI_PIN GP0
-#define DRIVER_LED_TOTAL 42
-#define RGBLED_NUM 42
+#define RGB_DI_PIN GP9
+#define DRIVER_LED_TOTAL 40
+#define RGBLED_NUM 40
 
 
 /*
