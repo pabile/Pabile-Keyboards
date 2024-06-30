@@ -1,12 +1,12 @@
 {
-    "keyboard_name": "P42v6 Keyboard",
+    "keyboard_name": "P42v5 Keyboard",
     "url": "https://github.com/pabile/Pabile-Keyboards",
     "maintainer": "Pabile",
     "manufacturer": "Pabile",
     "usb": {
         "vid": "0x8065",
         "pid": "0x8042",
-        "device_version": "0.0.6"
+        "device_version": "0.0.5"
     },
     "layouts": {
         "LAYOUT": {
