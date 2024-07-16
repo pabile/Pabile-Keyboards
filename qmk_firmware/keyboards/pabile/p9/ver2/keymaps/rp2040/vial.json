@@ -1,0 +1,54 @@
+{
+    "name": "P9v2 Macro Pad",
+    "vendorId": "0x8065",
+    "productId": "0x8009",
+    "lighting": "vialrgb", 
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "labels":[
+            "Encoder 1",
+            "Encoder 2",
+            "Encoder 3"
+        ],
+        "keymap": [
+            ["0,0\n\n\n0,0\n\n\n\n\n\ne", "0,1\n\n\n0,0\n\n\n\n\n\ne", {"x": 0.25}, "1,0\n\n\n1,0\n\n\n\n\n\ne", "1,1\n\n\n1,0\n\n\n\n\n\ne", {"x": 0.25}, "2,0\n\n\n2,0\n\n\n\n\n\ne", "2,1\n\n\n2,0\n\n\n\n\n\ne"],
+            [{"y": 0.25,"x": 1.75},
+                "0,0\n\n\n\n\n\n\n\n\ne0","0,1\n\n\n\n\n\n\n\n\ne1","0,2\n\n\n\n\n\n\n\n\ne2"
+            ],
+            [{"x": 1.75},"1,0","1,1","1,2"],
+            [{"x": 1.75},"2,0","2,1","2,2"]
+        ]
+    },
+    "vial": {
+        "midi": "advanced"
+    },
+    "customKeycodes": [
+        {"name": "00",
+         "title": "Double Zero",
+         "shortName": "DBLZERO"
+        },
+        {"name": "xCopy",
+         "title": "Alternate Copy",
+         "shortName": "XCOPY"
+        },
+        {"name": "xPaste",
+         "title": "Aternate Paste",
+         "shortName": "XPASTE"
+        },
+        {"name": "xCut",
+         "title": "Alternate Cut",
+         "shortName": "XCUT"
+        },
+        {"name": "Credits",
+         "title": "QMK and Vial rules!",
+         "shortName": "Credits"
+        },
+        {"name": "Contact",
+         "title": "email Pabile",
+         "shortName": "Contact"
+        }
+    ]
+}
