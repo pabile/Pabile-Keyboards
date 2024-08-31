@@ -1,0 +1,5 @@
+# Copyright (c) 2023 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_PABILE38
+    def_bool $(shields_list_contains,pabile38)

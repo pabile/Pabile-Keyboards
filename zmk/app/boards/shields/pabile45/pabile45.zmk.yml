@@ -1,0 +1,11 @@
+file_format: "1"
+id: pabile45
+name: Pabile45
+type: shield
+url: https://github.com/pabile/Pabile-Keyboards/
+requires:
+  - pro_micro
+features:
+  - keys
+  - encoder
+  - underglow
