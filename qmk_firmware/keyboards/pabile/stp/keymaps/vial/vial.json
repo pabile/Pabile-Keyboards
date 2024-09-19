@@ -1,0 +1,20 @@
+{
+    "name": "Stabilizer Test Pad",
+    "vendorId": "0x8085",
+    "productId": "0x8005",
+    "lighting": "vialrgb", 
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "keymap": [
+			[{"w":2},"0,0",{"w":2.25},"0,1",{"x":0.75,"w":1.25,"h":2,"w2":1.5,"h2":1,"x2":-0.25},"0,2"],
+			[{"w":2.75},"1,0",{"w":2.25},"1,1"],
+			[{"w":6.25},"2,0"]
+	    ]
+    },
+    "vial": {
+        "midi": "advanced"
+    }
+}
