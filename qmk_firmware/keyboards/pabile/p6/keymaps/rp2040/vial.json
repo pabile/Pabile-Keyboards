@@ -11,13 +11,12 @@
         "labels":[
             "Encoder 1",
             "Encoder 2",
-            "Encoder 3"
+            "Encoder 3",
+            "Arrow"
         ],
         "keymap": [
             ["0,0\n\n\n0,0\n\n\n\n\n\ne", "0,1\n\n\n0,0\n\n\n\n\n\ne", {"x": 0.25}, "1,0\n\n\n1,0\n\n\n\n\n\ne", "1,1\n\n\n1,0\n\n\n\n\n\ne", {"x": 0.25}, "2,0\n\n\n2,0\n\n\n\n\n\ne", "2,1\n\n\n2,0\n\n\n\n\n\ne"],
-            [{"y": 0.25,"x": 1.75},
-                "0,0\n\n\n\n\n\n\n\n\ne0","0,1\n\n\n\n\n\n\n\n\ne1","0,2\n\n\n\n\n\n\n\n\ne2"
-            ],
+            [{"y": 0.25,"x":1.75},"0,0\n\n\n3,0\n\n\n\n\n\ne0","0,1\n\n\n\n\n\n\n\n\ne1","0,2\n\n\n3,0\n\n\n\n\n\ne2"],
             [{"x": 1.75},
                 "1,0","1,1","1,2"
             ]
