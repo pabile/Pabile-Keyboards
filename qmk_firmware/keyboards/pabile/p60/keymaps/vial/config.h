@@ -6,3 +6,5 @@
 #define DYNAMIC_KEYMAP_MACRO_COUNT 32
 #define MIDI_ADVANCED
 
+// protection for Pico clones
+define RGB_MATRIX_MAXIMUM_BRIGHTNESS 120
