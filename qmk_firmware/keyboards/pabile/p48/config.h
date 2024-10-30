@@ -24,7 +24,8 @@
 #define ENCODERS_PAD_A { GP27 }
 #define ENCODERS_PAD_B { GP28 }
 
-#define RGB_DI_PIN GP0
+// #define RGB_DI_PIN GP0
+#define WS2812_DI_PIN GP0
 #define DRIVER_LED_TOTAL 48
 #define RGBLED_NUM 48
 
