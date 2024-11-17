@@ -1,0 +1,10 @@
+file_format: "1"
+id: pabile40v3
+name: pabile40v3
+type: shield
+url: https://github.com/pabile/Pabile-Keyboards/
+requires:
+  - pro_micro
+features:
+  - keys
+  - underglow
