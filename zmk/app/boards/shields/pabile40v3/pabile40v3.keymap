@@ -58,7 +58,7 @@
 				&bt BT_SEL 0  &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &none    &rgb_ug RGB_HUD  &rgb_ug RGB_SPI  &rgb_ug RGB_HUI  &none
 				&none         &none        &none        &none        &none        &none    &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &rgb_ug RGB_BRI  &rgb_ug RGB_TOG
 				&out OUT_USB  &bt BT_CLR   &bt BT_PRV   &bt BT_NXT   &none        &none    &none            &rgb_ug RGB_EFR  &rgb_ug RGB_EFF  &ext_power EP_TOG
-				&out OUT_BLE  &none        &none        &none        &none        &none    &trans           &none            &none            &bootloader
+				&out OUT_BLE  &none        &none        &none        &none        &none    &trans           &none            &studio_unlock            &bootloader
 			>;
 		};
 	};

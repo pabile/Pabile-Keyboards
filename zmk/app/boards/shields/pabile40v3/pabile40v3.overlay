@@ -3,18 +3,18 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
 #include <dt-bindings/zmk/matrix_transform.h>
+
+#include "pabile40v3.dts"
 
 / {
 	chosen {
 		zmk,kscan = &kscan0;
-		zmk,matrix_transform = &default_transform;
+		zmk,physical-layout = &layout_ortho_4x10_default;
 	};
 
 	kscan0: kscan_0 {
 		compatible = "zmk,kscan-gpio-matrix";
-		label = "KSCAN";
 		diode-direction = "col2row";
 
 		col-gpios
@@ -53,5 +53,9 @@
             RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5) RC(3,6) RC(5,2) RC(5,3) RC(5,4)
         >;
     };
-
 };
+
+&layout_ortho_4x10_default {
+    transform = <&default_transform>;
+};
+
