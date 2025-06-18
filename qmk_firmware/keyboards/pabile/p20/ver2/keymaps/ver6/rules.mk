@@ -1,0 +1,24 @@
+LTO_ENABLE = yes
+QMK_SETTINGS = no
+TAP_DANCE_ENABLE = yes
+COMBO_ENABLE = no
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes
+VIAL_ENCODERS_ENABLE = yes
+MIDI_ENABLE = no
+
+BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
+RGBLIGHT_ENABLE = yes       # Enable keyboard RGB underglow
+
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+# MOUSEKEY_ENABLE = no
+# EXTRAKEY_ENABLE = no
+# SPACE_CADET_ENABLE = no
+# GRAVE_ESC_ENABLE = no
+# MAGIC_ENABLE = no
+AVR_USE_MINIMAL_PRINTF = yes
+MUSIC_ENABLE = no
+
+
