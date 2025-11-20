@@ -5,13 +5,15 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <pabile38-layouts.dtsi>
+#include <layouts/pabile/pabile38-layouts.dtsi>
 
 / {
-    chosen {
+    
+/*    chosen {
         zmk,kscan = &kscan0;
-        zmk,physical-layout = &default_layout;
+        zmk,matrix_transform = &default_transform;
     };
+*/
 
     kscan0: kscan_0 {
         compatible = "zmk,kscan-gpio-matrix";
@@ -55,7 +57,7 @@
                             RC(2,3) RC(2,4) RC(2,5)   RC(6,1)   RC(5,3) RC(5,4) RC(5,5)
             >;
         };
-
+		
     alternate_transform: keymap_transform_1 {
         compatible = "zmk,matrix-transform";
         columns = <6>;
@@ -73,7 +75,7 @@
                             RC(2,3) RC(2,4) RC(2,5)   RC(6,1)   RC(5,3) RC(5,4) RC(5,5)
             >;
         };
-		
+
     top_encoder: encoder_top {
         compatible = "alps,ec11";
         label = "TOP_ENCODER";
@@ -99,3 +101,10 @@
     };
 };
 
+&default_layout {
+    transform = <&default_transform>;
+};
+
+&alt_layout {
+    transform = <&alternate_transform>;
+};
