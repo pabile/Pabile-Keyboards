@@ -10,6 +10,7 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
+#include <dt-bindings/zmk/pointing.h>
 
 / {
 	keymap {
@@ -23,10 +24,10 @@
 			// | LCTL | LALT | LSHFT| BSPC | SPACE        |  ENT  | DEL  | RGUI | ESC   |
 
 			bindings = <
-				&kp Q     &kp W    &kp E     &kp R      &kp T       &kp Y    &kp U       &kp I     &kp O      &kp P
-				&kp A     &kp S    &kp D     &kp F      &kp G       &kp H    &kp J       &kp K     &kp L      &kp MINUS
-				&kp Z     &kp X    &kp C     &kp V      &kp B       &kp N    &kp M       &kp COMMA &kp DOT    &kp FSLH
-				&kp LCTRL &kp LALT &kp LSHFT &kp BSPC   &lt 1 SPACE &none    &lt 2 ENTER &lt 3 DEL &lt 4 RGUI &kp ESC
+				&kp Q     &kp W    &kp E     &kp R      &kp T       &kp Y    &kp U       &kp I     &kp O    &kp P
+				&lt 3 A   &kp S    &kp D     &kp F      &kp G       &kp H    &kp J       &kp K     &kp L    &lt 3 MINUS
+				&kp Z     &kp X    &kp C     &kp V      &kp B       &kp N    &kp M       &kp COMMA &kp DOT  &kp FSLH
+				&kp LCTRL &kp LALT &kp LSHFT &kp BSPC   &lt 1 SPACE &none    &lt 2 ENTER &lt 4 DEL &kp RGUI &kp ESC
 			>;
 		};
 		1 {
@@ -41,16 +42,16 @@
 			bindings = <
 				&kp F1   &kp F2    &kp F3   &kp F4     &kp F5     &kp F6          &kp F7       &kp F8            &kp F9          &kp F10
 				&kp TAB  &kp F11   &kp F12  &none      &none      &none           &none        &none             &none           &none
-				&none    &kp PSCRN &kp SLCK &kp PAUSE_BREAK      &kp CAPS      &kp KP_NUMLOCK  &none        &kp C_VOLUME_DOWN &kp C_VOLUME_UP &kp C_MUTE
+				&none    &kp PSCRN &kp SLCK &kp PAUSE_BREAK  &kp CAPS  &kp KP_NUMLOCK  &none   &kp C_VOLUME_DOWN &kp C_VOLUME_UP &kp C_MUTE
 				&trans   &trans    &trans   &trans     &kp SPACE  &none           &kp KP_ENTER &none             &none           &none
 			>;
 		};
 		3 {
 			bindings = <
-				&none         &none       &none       &none       &none     &kp INS      &kp PAGE_UP  &kp UP     &kp PAGE_DOWN      &kp DEL
-				&kp TAB       &none       &none       &none       &none     &kp HOME     &kp LEFT     &kp DOWN   &kp RIGHT          &none
-				&none         &none       &none       &none       &none     &kp END      &none        &none      &none              &none
-				&trans        &trans      &kp BSPC    &kp SPACE   &none     &trans       &trans       &trans     &trans             &trans
+				&trans        &mkp LCLK      &mmv MOVE_UP   &mkp RCLK       &msc SCRL_UP     &kp INS      &kp PAGE_UP  &kp UP     &kp PAGE_DOWN      &kp DEL
+				&trans        &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_RIGHT &msc SCRL_DOWN   &kp HOME     &kp LEFT     &kp DOWN   &kp RIGHT          &none
+				&none         &none          &none          &none           &none     &kp END      &none        &none      &none              &none
+				&trans        &trans         &kp BSPC       &kp SPACE       &none     &trans       &trans       &trans     &trans             &trans
 			>;
 		};
 		4 {
@@ -58,9 +59,8 @@
 				&bt BT_SEL 0  &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &none    &rgb_ug RGB_HUD  &rgb_ug RGB_SPI  &rgb_ug RGB_HUI  &none
 				&none         &none        &none        &none        &none        &none    &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &rgb_ug RGB_BRI  &rgb_ug RGB_TOG
 				&out OUT_USB  &bt BT_CLR   &bt BT_PRV   &bt BT_NXT   &none        &none    &none            &rgb_ug RGB_EFR  &rgb_ug RGB_EFF  &ext_power EP_TOG
-				&out OUT_BLE  &none        &none        &none        &none        &none    &trans           &none            &studio_unlock            &bootloader
+				&out OUT_BLE  &none        &none        &none        &none        &none    &trans           &studio_unlock   &none            &bootloader
 			>;
 		};
 	};
 };
-

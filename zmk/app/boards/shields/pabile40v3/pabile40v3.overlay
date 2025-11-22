@@ -5,15 +5,15 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-
 #include <layouts/common/ortho_4x10/all1u.dtsi>
 #include <layouts/common/ortho_4x10/1x2u.dtsi>
 
 / {
-	chosen {
+	/* remove in studio */
+    chosen {
 		zmk,kscan = &kscan0;
 		zmk,physical-layout = &layout_ortho_4x10_all1u;
-	};
+	}; 
 
 	kscan0: kscan_0 {
 		compatible = "zmk,kscan-gpio-matrix";

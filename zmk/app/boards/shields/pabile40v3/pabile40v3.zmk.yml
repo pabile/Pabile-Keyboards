@@ -8,3 +8,4 @@ requires:
 features:
   - keys
   - underglow
+  - studio
